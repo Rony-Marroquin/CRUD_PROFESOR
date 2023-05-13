@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185190884899",
+    "project_id": "proyectocatedra-504b0",
+    "storage_bucket": "proyectocatedra-504b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185190884899:android:0498f50df39adf62fdb396",
+        "android_client_info": {
+          "package_name": "com.example.proyectocatedrafiinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185190884899-5a06i856qggkk7orbqrgkc63akp7alam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectocatedrafiinal",
+            "certificate_hash": "dee6a548fb1562bbcfe503fa9424cf83adfcb596"
+          }
+        },
+        {
+          "client_id": "185190884899-5jsrjhv8kpdtst8mb4mkurmtun89pli1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLya3YGupyymBxvCHgfM0NDU0sDC8WMaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185190884899-5jsrjhv8kpdtst8mb4mkurmtun89pli1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
